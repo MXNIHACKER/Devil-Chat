@@ -36,13 +36,9 @@ async def is_admins(chat_id: int):
         )
     ]
 
-
-EMOJIOS = [ 
-      "═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══",
-]
       
 START = f"""
-**๏ Hie Baby🐒 ๏**
+**๏ ʜɪɪ ʙᴀʙʏ😘 ๏**
 """
 
 @bot.on_message(filters.command(["start", "aistart", f"start@{BOT_USERNAME}"]))
@@ -62,6 +58,7 @@ async def restart(client, m: Message):
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @II_mxni_II\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @II_mxni_II\n║\n║➣ @mehfil_yaaran_di\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await asynico.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @II_mxni_II\n║\n║➣ @mehfil_yaaran_di\n║\n║➣ @PANJABI_MUSIC_BBOT\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
