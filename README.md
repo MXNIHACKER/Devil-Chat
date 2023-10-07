@@ -1,3 +1,11 @@
+<h2 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+DEVIL+X+CHAT)](https://github.com/MXNIHACKER/Devil-Chat)
+
+<h2 align="center">
+    ── ⌜ ᴅᴇᴠɪʟ ✘ ᴄʜᴀᴛ ⌟ ──
+</h2>
+
 <p align="center">
   <img src="https://te.legra.ph/file/cf7902342e66ae071c7a7.jpg">
 </p>
